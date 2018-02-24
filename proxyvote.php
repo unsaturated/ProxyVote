@@ -3,8 +3,8 @@
 Plugin Name: Proxy Vote 
 Plugin URI:  https://github.com/unsaturated/ProxyVote
 Description: Collects proxy voting information for small events.  
-Version:     1.1
-Author:      Matthew Crumley
+Version:     1.1.0
+Author:      Matthew M. Crumley
 Author URI:  https://matt.unsaturated.com
 License:     GPL3
 
